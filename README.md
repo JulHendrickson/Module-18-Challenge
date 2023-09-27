@@ -1,7 +1,5 @@
 # Module 18 Challenge
 
-![alt=""](Images/application-image.png)
-
 For this challenge, I built a blockchain-based ledger system, complete with a user-friendly web interface. This ledger could institutions to conduct financial transactions (transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
 I made updates to the provided Python file that included:
