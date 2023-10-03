@@ -16,7 +16,7 @@ I made updates to the provided Python file that included:
 
 The application can be opened by running the command "streamlit run pychain.py" from the command terminal.
 
-![Application_Page](https://github.com/JulHendrickson/Module-18-Challenge/assets/81846691/478d06db-af7b-4966-a695-09c1f57cdee8)
+![Application_Page_code_corrected](https://github.com/JulHendrickson/Module-18-Challenge/assets/81846691/22f3a1f6-3fac-415b-b17c-253d7719afa0)
 
 
 Once opened users can input the sender, receiver and the amount wanted to transfer. 
@@ -24,7 +24,7 @@ Then hit add block to add the transaction to the block.
 
 On the left side any block can be inspected by selecting it from the drop down menu.
 
-![Block_Inspector](https://github.com/JulHendrickson/Module-18-Challenge/assets/81846691/a88b40de-407b-447a-b1d5-23da36eaf742)
+![Block_Inspector_code_corrected](https://github.com/JulHendrickson/Module-18-Challenge/assets/81846691/7a5ecbdf-0887-4818-a563-970c6f7872e4)
 
 
 ---
